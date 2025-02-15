@@ -2,4 +2,4 @@
 
 A new Flutter project.
 
-It'S hosted on web link : https://vishwarajsudrik.github.io/Blinkit-UI-master/
+It is hosted as web on given link : https://vishwarajsudrik.github.io/Blinkit-UI-master/
